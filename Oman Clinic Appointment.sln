@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oman Clinic Appointment", "Oman Clinic Appointment.csproj", "{548934A1-A2DD-4F9F-94FF-41BA4C73C74F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{548934A1-A2DD-4F9F-94FF-41BA4C73C74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548934A1-A2DD-4F9F-94FF-41BA4C73C74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548934A1-A2DD-4F9F-94FF-41BA4C73C74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548934A1-A2DD-4F9F-94FF-41BA4C73C74F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82C03037-A9EB-4EC1-B762-5B2509883184}
+	EndGlobalSection
+EndGlobal
